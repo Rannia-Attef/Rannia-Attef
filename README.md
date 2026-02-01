@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a fresh graduate from faculty of engineering, cairo university. Passionate about AI
+As a Data & AI Engineer, I have been contributing to the migration of data warehouse pipelines. My work focuses on enhancing scalability, maintainability, and performance of ETL processes while ensuring data accuracy and timely delivery. By developing automated Python validation scripts, I have facilitated reliable data flow into reporting layers and business dashboards. Exposure for Data-AI driven solutions (Recommendation systems, predictive models, Semantic Search and Copilot Studio)
 
 
 ## 🌐 Socials:
